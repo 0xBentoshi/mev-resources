@@ -58,7 +58,7 @@ MEV has 3 parts:
 
 If you didn't get the above, don't worry. I haven't understood it enough myself to explain it succintly. The main thing here is your perserverance and you just not giving up. That's literally the only thing here. That's why there's few ppl in this space bec it "seems" intimidating. 
 
-If I, a noob lvl 9000 can coder can get on this journey, then so can you anon. First, you need to know the various tools needed (like nodejs for runtime, js for codign the strategy/logic, smart contracts that will deploy your strategy), then go through how other ppl have done it and then finally launch the shittiest v0 of your bot. Once this is done you will continue on your own.
+If I, a noob lvl 9000 coder can get on this journey, then so can you anon. First, you need to know the various tools needed (like nodejs for runtime, js for codign the strategy/logic, smart contracts that will deploy your strategy), then go through how other ppl have done it and then finally launch the shittiest v0 of your bot. Once this is done you will continue on your own.
 
 Also, the mev community is absolute pogchamp. The reason I got into mev and coding in crypto is simply bec i was feeling a little lonely and craved a sense of community. I think I have found that here. Also, I love a good challenge, especially taking on something that looms in front of me like a tower. Feel free to ask *sensible* questions to the pogchamps in this space (I have a list on my Twitter if you want some names) and have fun. 
 
